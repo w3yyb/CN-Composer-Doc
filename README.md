@@ -6,7 +6,7 @@ Composer 中文文档(中最版)
 ---
 
 - 希望更多的朋友能够参与此文档的翻译、勘误（您可以 Fork 本项目，并提交 Pull Request）。
-
+- 到 [http://composer.p2hp.com/](http://composer.p2hp.com/) 查看更多信息和WEB版文档.
 
 ---
 
