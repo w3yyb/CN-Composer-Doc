@@ -10,7 +10,7 @@ Composer 中文文档(中最版)
 
 ---
 
-## Book
+## 文档
 - [简介](/cndoc/00-intro.md)
 - [基本用法](/cndoc/01-basic-usage.md)
 - [库（资源包）](/cndoc/02-libraries.md)
@@ -20,7 +20,7 @@ Composer 中文文档(中最版)
 - [配置](/cndoc/06-config.md)
 - [社区](/cndoc/07-community.md)
 
-## Articles
+## 相关文章
 - [别名](/cndoc/articles/aliases.md)  
 版本分支名称的别名。
 - [优化自动加载](/cndoc/articles/autoloader-optimization.md)  
@@ -42,7 +42,7 @@ Composer 中文文档(中最版)
 - [版本约束](/cndoc/articles/versions.md)  
 版本解释。
 
-## FAQs
+## 常见问题
 
 - [我如何为我的框架安装一个包到自定义路径?](/cndoc/faqs/how-do-i-install-a-package-to-a-custom-path-for-my-framework.md)
 - [如何以编程方式安装Composer?](/cndoc/faqs/how-to-install-composer-programmatically.md)
